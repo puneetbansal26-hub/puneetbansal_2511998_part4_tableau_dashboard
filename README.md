@@ -1,6 +1,5 @@
 # Executive Sales Performance Dashboard — Part 4
 
-**Repository:** `[studentname_studentid]_part4_tableau_dashboard`
 **Dataset:** `data/dashboard_sales_data.xlsx`
 **Tableau Workbook:** `tableau/executive_dashboard.twbx`
 
